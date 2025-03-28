@@ -18,7 +18,6 @@
 <a href="https://medium.com/@pawaspy2633" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pawaspy2633" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pawas2633" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pawas2633" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pawas_py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pawas_py" height="30" width="40" /></a>
-<a href="https://discord.gg/0xpawas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0xpawas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
