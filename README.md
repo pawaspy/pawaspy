@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Simple Bank](https://github.com/pawaspy/Simple-Bank)
 
-- 🌱 I’m currently learning **Postgres, Gin,**
+- 🌱 I’m currently learning **Postgres, Golang**
 
 - 📫 How to reach me **pawaspy2633@gmail.com**
 
