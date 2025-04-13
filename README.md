@@ -45,13 +45,6 @@
 
 ---
 
-### 📌 Pinned Projects
-<a href="https://github.com/pawaspy/Simple-Bank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pawaspy&repo=Simple-Bank&theme=radical" />
-</a>
-
----
-
 ### 🧠 GitHub Stats & Activity
 
 <p align="center">
@@ -61,12 +54,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawaspy&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pawaspy&theme=onedark" alt="GitHub Trophies" />
-</p>
-<p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pawaspy&theme=github-compact" alt="Activity Graph"/>
 </p>
 
+---
+
+### 🌍 Visitors by Country
+<p align="left">
+  <img src="https://s01.flagcounter.com/count2/YOUR-UNIQUE-ID/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_1/percent_0/" alt="Flag Counter" />
+</p>### ✨ Quote
+> “Miles to go before I sleep.”
+
+---
 
 ### ✨ Quote
 > “Miles to go before I sleep.”
