@@ -62,8 +62,6 @@
 ### 🌍 Visitors by Country
 <p align="left">
   <img src="https://s01.flagcounter.com/count2/YOUR-UNIQUE-ID/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_1/percent_0/" alt="Flag Counter" />
-</p>### ✨ Quote
-> “Miles to go before I sleep.”
 
 ---
 
