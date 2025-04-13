@@ -48,6 +48,17 @@
 
 ---
 
+### 🧠 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawaspy&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawaspy&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 🌍 Visitors by Country
 <p align="left">
     <a href="https://info.flagcounter.com/rbJm"><img src="https://s01.flagcounter.com/count2/rbJm/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
