@@ -8,8 +8,7 @@
 ---
 
 ### 🔥 About Me
-- 🔭 I’m currently working on [Simple Bank](https://github.com/pawaspy/Simple-Bank)
-- 🌱 I’m learning **PostgreSQL** and **Golang**
+- 🌱 I’m learning **PostgreSQL**, **Golang** and **Redis**
 - 🤝 I'm open to collaborating on interesting backend or systems projects
 - 📫 Reach me at: **pawaspy2633@gmail.com**
 
@@ -41,20 +40,6 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
-
----
-
-### 🧠 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawaspy&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawaspy&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pawaspy&theme=github-compact" alt="Activity Graph"/>
 </p>
 
 ---
